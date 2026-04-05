@@ -1140,10 +1140,10 @@ docker compose logs -f database
 
 In Adminer, login with:
 - **System:** MySQL
-- **Server:** `shopfast-db`
-- **Username:** `shopfast_user`
-- **Password:** `shopfast_pass`
-- **Database:** `shopfast`
+- **Server:** `database`
+- **Username:** `root`
+- **Password:** `shopfast_root`
+- **Database:** ``
 
 ### 15i. Stop the Stack
 
